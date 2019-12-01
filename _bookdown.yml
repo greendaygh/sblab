@@ -1,6 +1,6 @@
 rmd_files: ["index.Rmd"]
-repo: https://github.com/greendaygh/bioeng-ml/
-book_filename: "bioeng-ml"
+repo: https://github.com/greendaygh/sblab/
+book_filename: "sblab"
 output_dir: docs
 language:
   label:
